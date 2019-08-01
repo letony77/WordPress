@@ -6,6 +6,6 @@ WHAT IS ? : This is a WorkPress pluging, this pluging change the choice of the c
 
 INSTALLATION : For instal the plugin you need to download the file zip and add in your WordPress environment.
 
-PERSONALIZATION : For change the color what do you like go in epec-custom-palette/epec-custom-palette.php and change the hexdecimal color code and change in style.css too.
+PERSONALIZATION : For change the color what do you like go in epec-custom-palette/epec-custom-palette.php and change the hexdecimal color code and change in app.css too.
 
 Thank you !
